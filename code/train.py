@@ -2,8 +2,7 @@ from __future__ import print_function
 
 """This file contains code for use with "Think Bayes",
 by Allen B. Downey, available from greenteapress.com
-
-Copyright 2012 Allen B. Downey
+brokenbroken is only one without committed changes?
 License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 """
 
